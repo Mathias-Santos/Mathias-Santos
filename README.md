@@ -1,4 +1,4 @@
-# Olá, eu sou Mathias Santos 😎
+# Olá, eu sou Mathias Santos <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/gandalf_parrot.gif width="30">
 
 <h4>🤓 💻🖱️ - Sou estudante de Engenharia de Software</h4>
 <h4>📚 - Atualmente estou estudando Javascript, HTML5 E CSS</h4>
