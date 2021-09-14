@@ -22,11 +22,10 @@
   <div>
    <h2>Connect with me <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Handshake.gif width="70"></h2>
   <a href = "mailto:pgo.mathias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mathias-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-  
-    
+  <a href="https://www.linkedin.com/in/mathias-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
   </div>
+ 
+ ![Snake animation](https://github.com/Mathias-Santos/Mathias-Santos/blob/output/github-contribution-grid-snake.svg)
   
 
 
